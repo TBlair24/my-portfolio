@@ -4,7 +4,9 @@ description: >-
   My AI, Robotics & Engineering Portfolio.
 baseurl: "" # leave empty for GitHub Pages
 url: "https://tblair24.github.io"
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes/minimal-mistakes@4.24.3
+
 
 plugins:
   - jekyll-include-cache
